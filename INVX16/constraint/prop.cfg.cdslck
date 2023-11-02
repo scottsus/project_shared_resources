@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      scottsus
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              109629
+ProcessCreationTime_UTC        1694566829
+ProcessCreationTime_Readable   Tue Sep 12 18:00:29 2023 PDT
+AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/viterbi/08/scottsus/work_gpdk045/EE477_F23/INVX16/constraint/prop.cfg
+TimeEditLocked                 Wed Sep 13 16:51:14 2023 PDT
