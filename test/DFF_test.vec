@@ -1,0 +1,19 @@
+radix 1 1 1
+io i i i
+vname CLK RST D
+tunit ns
+slope 0.01
+vih 1.0
+vil 0.0
+period 2.0
+
+0 0 0
+1 0 0
+0 1 0
+1 1 0
+0 1 1
+1 1 1
+0 1 0
+1 1 0
+0 1 1
+1 1 1
