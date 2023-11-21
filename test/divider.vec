@@ -1,0 +1,17 @@
+radix 4 4
+io i i
+vname Dividend<[3:0]> divisor<[3:0]>
+tnunit ns
+slope 0.01
+vih 1.0
+vil 0.0
+period 2.0
+
+3 A
+F 5
+7 A
+E 2
+D 7
+C 5
+B 8
+F F
