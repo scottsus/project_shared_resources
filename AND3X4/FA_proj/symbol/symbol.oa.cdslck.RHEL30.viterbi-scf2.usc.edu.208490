@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      scottsus
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              208490
+ProcessCreationTime_UTC        1698801025
+ProcessCreationTime_Readable   Tue Oct 31 18:10:25 2023 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/08/scottsus/work_gpdk045/EE477_F23/FA_proj/symbol/symbol.oa.cdslck
+TimeEditLocked                 Tue Oct 31 19:40:47 2023 PDT
