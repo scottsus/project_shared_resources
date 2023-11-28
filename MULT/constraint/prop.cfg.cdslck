@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      fdchen
 HostName                       viterbi-scf1.usc.edu
-ProcessIdentifier              197300
-ProcessCreationTime_UTC        1700598604
-ProcessCreationTime_Readable   Tue Nov 21 12:30:04 2023 PST
+ProcessIdentifier              258628
+ProcessCreationTime_UTC        1701124600
+ProcessCreationTime_Readable   Mon Nov 27 14:36:40 2023 PST
 AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
 FilePathUsedToEditLock         /home/viterbi/08/fdchen/work_gpdk045/EE477_Proj_Ph1/MULT/constraint/prop.cfg
-TimeEditLocked                 Tue Nov 21 19:14:50 2023 PST
+TimeEditLocked                 Mon Nov 27 14:37:23 2023 PST
