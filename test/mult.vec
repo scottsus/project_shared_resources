@@ -1,0 +1,18 @@
+radix 4 4
+io i i
+vname A'<[3:0]> B'<[3:0]>
+tunit ns
+slope 0.01
+vih 1.0
+vil 0.0
+period 2.0
+
+F F
+8 A
+5 F
+0 C
+6 1
+B E
+7 4
+0 0
+

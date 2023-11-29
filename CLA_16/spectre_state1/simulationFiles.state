@@ -1,0 +1,19 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile ("/home/viterbi/08/scottsus/16bit.vec")
+allDefinitionFiles nil
+allDspfFiles nil
+allIncludedPaths nil
+allPspiceFiles nil
+allSpefFiles nil
+allStimulusFiles nil
+allVectorFiles ((t "/home/viterbi/08/scottsus/16bit.vec" "off"))
+definitionFiles nil
+dspfFile nil
+hlcheck "off"
+includePath ""
+pspiceFile nil
+spefFile nil
+stimulusFile nil
