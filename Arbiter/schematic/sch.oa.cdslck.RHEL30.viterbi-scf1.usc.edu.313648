@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      fdchen
 HostName                       viterbi-scf1.usc.edu
-ProcessIdentifier              102790
-ProcessCreationTime_UTC        1701587336
-ProcessCreationTime_Readable   Sat Dec  2 23:08:56 2023 PST
+ProcessIdentifier              313648
+ProcessCreationTime_UTC        1699684637
+ProcessCreationTime_Readable   Fri Nov 10 22:37:17 2023 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/viterbi/08/fdchen/work_gpdk045/EE477_Proj_Ph1/MULT/layout/layout.oa.cdslck
-TimeEditLocked                 Sat Dec  2 23:22:56 2023 PST
+FilePathUsedToEditLock         /home/viterbi/08/fdchen/work_gpdk045/EE477_Proj_Ph1/Arbiter/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Nov 10 22:41:30 2023 PST

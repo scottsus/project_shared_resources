@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      scottsus
-HostName                       viterbi-scf2.usc.edu
-ProcessIdentifier              72310
-ProcessCreationTime_UTC        1701195155
-ProcessCreationTime_Readable   Tue Nov 28 10:12:35 2023 PST
+LoginName                      fdchen
+HostName                       viterbi-scf1.usc.edu
+ProcessIdentifier              102790
+ProcessCreationTime_UTC        1701587333
+ProcessCreationTime_Readable   Sat Dec  2 23:08:53 2023 PST
 AppIdentifier                  /usr/local/cadence/IC617/tools/dfII/bin/64bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
-FilePathUsedToEditLock         /home/viterbi/08/scottsus/work_gpdk045/EE477_Proj_Ph1/PROJ/constraint/prop.cfg
-TimeEditLocked                 Tue Nov 28 11:02:54 2023 PST
+FilePathUsedToEditLock         /home/viterbi/08/fdchen/work_gpdk045/EE477_Proj_Ph1/PROJ/constraint/prop.cfg
+TimeEditLocked                 Sat Dec  2 23:31:47 2023 PST
